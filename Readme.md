@@ -7,6 +7,6 @@ Alejandra Martinez
 Víctor Olea
 
 **ALEJANDRA MARTINEZ**
-Colombia:EMOJICODE:smiling_face_with_three_hearts:
+Colombia:smiling_face_with_three_hearts:
 
 Actualmente vivo en colombia
