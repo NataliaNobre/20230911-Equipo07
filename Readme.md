@@ -1,8 +1,2 @@
-Natalia Nobre
-Luis Delgado
-Víctor Olea
-Mariana Arenas
-
-<!-- ------ -->
-#**Mariana Arenas **
-##Chile
+# Mariana Arenas
+## Chile :alien:
